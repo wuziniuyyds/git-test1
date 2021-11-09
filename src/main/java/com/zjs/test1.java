@@ -9,5 +9,6 @@ public class test1 {
         System.out.println("分支制造冲突");
         System.out.println("免密登入");
         System.out.println( "推");
+        System.out.println( "拉");
     }
 }
